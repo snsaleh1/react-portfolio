@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header.jpg) no-repeat top center;
+   background: #161415 url(https://scontent.faus1-1.fna.fbcdn.net/v/t31.0-8/23154725_3537676407208_6187324432188498416_o.jpg?_nc_cat=100&_nc_oc=AQk8MZdRAp1LbyqU0y2lBfLOAGI0DI1FWRovg4idQBT4vTpavO0uznZDRu4HgP53Kqg48a8axqaBHET6NTWHSXsH&_nc_ht=scontent.faus1-1.fna&oh=c767bcca2c55d962ae971a31fffd4fea&oe=5E561C91) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;

@@ -4,6 +4,7 @@ export default class Header extends Component {
   render() {
     return (
       <React.Fragment>
+        <header id="home">
       <div className="row">
             <div className="top-bar">
               <a className="menu-toggle" href="#"><span>Menu</span></a>
@@ -23,8 +24,6 @@ export default class Header extends Component {
               </nav>    		
             </div> 
           </div>
-      <header id="home">
-        ....
       </header>
       </React.Fragment>
     );

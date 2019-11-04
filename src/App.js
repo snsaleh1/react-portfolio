@@ -5,6 +5,9 @@ import Resume from './components/resume/resume';
 import Portfolio from './components/portfolio/portfolio';
 import ContactUs from './components/contact/contact';
 import Footer from './components/footer/footer';
+
+import './App.css';
+
 class App extends Component {
   render() {
     return (

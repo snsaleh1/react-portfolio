@@ -204,12 +204,13 @@ ul#nav li.current a { color: black; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: white;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   size: contain;
+   width: 250px;
+   height: 250px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -224,7 +225,7 @@ ul#nav li.current a { color: black; }
 }
 #about .download .button:hover {
    background: #fff;
-   color: #2B2B2B;
+   color: white;
 }
 #about .download .button i {
    margin-right: 15px;

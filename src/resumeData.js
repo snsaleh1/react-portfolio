@@ -22,7 +22,7 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
+  "aboutme":"I have 15 years of client-facing customer service experience, 5 years teaching and training experience, and 1 year of software development. Completed a software engineering immersive program at General Assembly (2019) and built multiple projects currently presented on my github. Using my Master's degree in clinical psychology I analyze and interpret the needs of those around me and deliver the most best product for you and your organization",
   "address":"India",
   "website":"https://www.codeclassifiers.com",
   "education":[

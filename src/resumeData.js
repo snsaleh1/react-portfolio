@@ -17,9 +17,9 @@ let resumeData = {
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"medium",
+        "url":"https://medium.com/@snsaleh11",
+        "className":"fa fa-medium"
       }
     ],
   "aboutme":"I have 15 years of client-facing customer service experience, 5 years teaching and training experience, and 1 year of software development. Completed a software engineering immersive program at General Assembly (2019) and built multiple projects currently presented on my github. Using my Master's degree in clinical psychology I analyze and interpret the needs of those around me and deliver the most best product for you and your organization",

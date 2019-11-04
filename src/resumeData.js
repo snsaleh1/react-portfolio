@@ -1,19 +1,19 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
   "name": "Caleb Saleh",
-  "role": "Frontend Developer",
-  "linkedinId":"Your LinkedIn Id",
+  "role": "Full Stack Software Developer",
+  "linkedinId":"calebsaleh",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "I design and developing engaging front-end user interfaces as well as manage multiple database frameworks. In my spare time I like to lift weights, play rugby, write, travel, and read about military figures in history.",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/calebsaleh/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"https://github.com/snsaleh1",
         "className":"fa fa-github"
       },
       {

@@ -3,8 +3,8 @@ let resumeData = {
   "name": "Caleb Saleh",
   "role": "Full Stack Software Developer",
   "linkedinId":"calebsaleh",
-  "skypeid": "Your skypeid",
-  "roleDescription": "I design and developing engaging front-end user interfaces as well as manage multiple database frameworks. In my spare time I like to lift weights, play rugby, write, travel, and read about military figures in history.",
+  "zoomId": "Your zoomId",
+  "roleDescription": " I design and developing engaging front-end user interfaces as well as manage multiple database frameworks. In my spare time I like to lift weights, play rugby, write, travel, and read about military figures in history.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -19,12 +19,11 @@ let resumeData = {
       {
         "name":"medium",
         "url":"https://medium.com/@snsaleh11",
-        "className":"fa fa-medium"
+        "className":"fa-medium"
       }
     ],
-  "aboutme":"I have 15 years of client-facing customer service experience, 5 years teaching and training experience, and 1 year of software development. Completed a software engineering immersive program at General Assembly (2019) and built multiple projects currently presented on my github. Using my Master's degree in clinical psychology I analyze and interpret the needs of those around me and deliver the most best product for you and your organization",
+  "aboutme":"I have 15 years of client-facing customer service experience, 5 years teaching and training experience, and 1 year of software development. Completed a software engineering immersive program at General Assembly (2019) and built multiple projects currently presented on my github. Using my Master's degree in clinical psychology I analyze and interpret the needs of those around me and deliver the most efficient and effective product for you and your organization",
   "address":"Austin, TX",
-  "website":"https://www.codeclassifiers.com",
   "education":[
     {
       "UniversityName":"General Assembly",
@@ -50,18 +49,18 @@ let resumeData = {
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "CompanyName":"The Saleh Group",
+      "specialization":"Business Opportunities Specialist",
+      "MonthOfLeaving":"July",
+      "YearOfLeaving":"2019",
+      "Achievements":"Developed talking point script to acquire 30% more new sellers per month over phone comms. Mediated contract negotiations acting as objective liaison for both parties. Managed and trained a team of brokers consisting of 4-man teams. Prepared detailed appraisal reports to share with clients."
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
+      "CompanyName":"UCLA",
+      "specialization":"Instructional Technologist",
+      "MonthOfLeaving":"May",
       "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "Achievements":"Trained working professionals online course instruction including deep dive navigation of Learning Management Systems increasing instructor retention rate by 40% before inevitable layoffs. Developed and organized graduate level courses using advanced media production and pedagogical design models in addition to front-end UX design and development. Created and led training workshop series, supporting documentation outlining higher standards of academic content. Researched new technological methods of course instruction involving simulations, labs, and virtual reality applications. Management of database output involving enrollment and course requirements."
     }
   ],
   "skillsDescription":"Your skills here",
@@ -73,24 +72,39 @@ let resumeData = {
       "skillname":"CSS"
     },
     {
-      "skillname":"Reactjs"
-    }
+      "skillname":"JavaScript"
+    },
+    {
+      "skillname":"Python3"
+    },
+    {
+      "skillname":"ReactJS"
+    },
+    {
+      "skillname":"Django"
+    },
+    {
+      "skillname":"MongoDB"
+    },
+    {
+      "skillname":"SQL"
+    },
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "name":"Weather App",
+      "description":"Using React.JS and Weather API",
+      "imgurl":"https://i.imgur.com/abzkLR6.png"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "name":"Recipe App",
+      "description":"Using React.JS and Edamam API",
+      "imgurl":"https://i.imgur.com/4L6huSb.png"
     },
     {
       "name":"project3",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/project2.png"
+      "imgurl":"https://i.imgur.com/sjWZop1.jpg"
     },
     {
       "name":"project4",
@@ -100,12 +114,12 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"The most infectious smile you'll ever have in the office.",
+      "name":"Zephrey Bowling - Stadium Medical"
     },
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"Caleb has an amazing ability to bring people together and create hard-working teams.",
+      "name":"Aiden Boswell - UCLA Extension"
     }
   ]
 }

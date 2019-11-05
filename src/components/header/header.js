@@ -31,6 +31,9 @@ export default class Header extends Component {
                       return(
                               <li key={item.name}>
                                 <a href={item.url} target="_blank"><i className={item.className}></i></a>
+                                {/* <a href="https://medium.com/@snsaleh11" rel="noopener noreferrer" target="_blank">
+                                <i className="fa fa-medium" aria-hidden="true" />
+                                </a> */}
                               </li>
                             )
                           }

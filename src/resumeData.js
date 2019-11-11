@@ -115,10 +115,10 @@ let resumeData = {
   "testimonials":[
     {
       "description":"The most infectious smile you'll ever have in the office.",
-      "name":"Zephrey Bowling - Stadium Medical"
+      "name":"George Bowling - Stadium Medical"
     },
     {
-      "description":"Caleb has an amazing ability to bring people together and create hard-working teams.",
+      "description":"Caleb has an amazing ability to bring people together and create a hard-working team atmosphere. Definitely on the fast track to project management!",
       "name":"Aiden Boswell - UCLA Extension"
     }
   ]

@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Software Developer",
   "linkedinId":"calebsaleh",
   "zoomId": "Your zoomId",
-  "roleDescription": " I design and developing engaging front-end user interfaces as well as manage multiple database frameworks. In my spare time I like to lift weights, play rugby, write, travel, and read about military figures in history.",
+  "roleDescription": " I design and develop engaging front-end user interfaces as well as manage multiple database frameworks. In my spare time I like to lift weights, play rugby, write, travel, and read about military figures in history.",
   "socialLinks":[
       {
         "name":"linkedin",

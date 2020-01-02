@@ -49,6 +49,13 @@ let resumeData = {
   ],
   "work":[
     {
+      "CompanyName":"The Saleh Group",
+      "specialization":"Customer Success Manager",
+      "MonthOfLeaving":"",
+      "YearOfLeaving":"",
+      "Achievements":"Conduct video conferences with out of state buyers and sellers for onboarding. Planned multiple site visits for buyers to evaluate business prospects. Delegate all incoming support tickets and phone requests to proper resources. Organized over 500 business listings based on appropriate schemas using PostgreSQL"
+    },
+    {
       "CompanyName":"General Assembly",
       "specialization":"Software engineering candidate",
       "MonthOfLeaving":"October",

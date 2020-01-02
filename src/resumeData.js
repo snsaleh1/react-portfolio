@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Software Developer",
   "linkedinId":"calebsaleh",
   "zoomId": "Your zoomId",
-  "roleDescription": " I design and develop engaging front-end user interfaces as well as manage multiple database frameworks. In my spare time I like to lift weights, play rugby, write, travel, and read about military figures in history.",
+  "roleDescription": " A full stack software engineer who specializes in developing applications and training models for end users to master products and resources. With my ability to assess and communicate with both colleagues’ and consumers’ needs in the most professional manner, I will use my management and teaching experience to elevate the performance and productivity of your organization.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -48,6 +48,13 @@ let resumeData = {
     }
   ],
   "work":[
+    {
+      "CompanyName":"General Assembly",
+      "specialization":"Software engineering candidate",
+      "MonthOfLeaving":"October",
+      "YearOfLeaving":"2019",
+      "Achievements":" Programmed single page gaming application using JavaScript, HTML, and CSS - Developed family event application using Express, Node.js, JavaScript, and YELP API - Optimizing Structured Query Language (SQL) queries for high volume data management. Collaborated with project team to develop Party Planning Application using Python, Django, Google Authentication, MongoDB management, and acquired effective communication programs for github workflow. Created full portfolio website using React and Javascript."
+    },
     {
       "CompanyName":"The Saleh Group",
       "specialization":"Business Opportunities Specialist",
